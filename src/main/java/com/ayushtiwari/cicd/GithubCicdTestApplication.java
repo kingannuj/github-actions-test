@@ -13,7 +13,7 @@ public class GithubCicdTestApplication {
 //		git commit -m "first commit"
 //		git branch -M main
 //		git remote add origin https://github.com/kingannuj/github-actions-test.git
-//		git push -u origin main
+
 
 	@GetMapping("/welcome")
 	public String welcome(){
